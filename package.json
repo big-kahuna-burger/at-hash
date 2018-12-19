@@ -1,0 +1,15 @@
+{
+  "name": "@big-kahuna-burger/at-hash",
+  "version": "1.0.1",
+  "description": "Calculates Access Token Hash for the Oauth2 'id_token token' response type",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.9.1"
+  }
+}
